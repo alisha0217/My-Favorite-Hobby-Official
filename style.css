@@ -1,0 +1,41 @@
+#Apps {
+    width: 100%;
+    height: 800px;
+    background-color: darkturquoise;
+}
+
+img {
+    width: 20%;
+    height: 200px;
+    transition: transform .2s;
+}
+
+img:hover {
+    transform: scale(0.8);
+}
+
+#Chatbot {
+    width: 100%;
+    height: 800px;
+    background-color: cornflowerblue;
+}
+/*Bootstrap CSS */
+.container {
+    text-align: center;
+}
+
+#myCarousel {
+    background-color: red;
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
